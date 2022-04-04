@@ -4,7 +4,7 @@
 <title>VPS OVH INDEX</title>
 </head>
 
-<body>
+<body> 
 <h1>Comming soon</h1>
 </body>
 </html>
